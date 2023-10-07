@@ -67,8 +67,8 @@ python fitness_tracker.py
 ```
 
 ***
-## Автор
+## *Автор*
 Оксана Асташкина - [GitHub](https://github.com/OksanaAstashkina)
 
-### Дата создания
+### *Дата создания*
 Январь, 2023
