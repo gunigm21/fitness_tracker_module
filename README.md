@@ -48,7 +48,7 @@ cd fitness_tracker_module
 
 __Разворачиваем в репозитории виртуальное окружение__:
 ```
-python -m venv venv (python3 -m venv venv)
+python -m venv venv (для Linux и MacOS: python3 -m venv venv)
 ```
 
 __Активируем виртуальное окружение__:
